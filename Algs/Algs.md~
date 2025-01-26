@@ -113,7 +113,8 @@ Algorithm design principles are fundamental techniques used to solve computation
 # Resources and References
 **The best sources to learn about algorithms in my opinion.**
 - **Books**:
-    - ["Introduction to Algorithms" by Cormen, Leiserson, Rivest, and Stein (CLRS).](https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf)
+    - "Introduction to Algorithms" by Cormen, Leiserson, Rivest, and Stein (CLRS).
+    - "Algorithm Design Manual" by Steven Skiena.
 - **Online Courses**:
     - [Algorithms Specialization by Stanford (Coursera)](https://www.coursera.org/specializations/algorithms)
     - [MIT OpenCourseWare: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
