@@ -99,6 +99,9 @@ A structured guide to algorithm design principles, techniques, and applications.
 - **Use Case**: Array/String traversal.
 - **Examples**: Pair sum, palindrome checks.
 
+## For optimization problems
+
+- Greedy, Dynamic, B&B
 ---
 
 ## Applied Algorithms
