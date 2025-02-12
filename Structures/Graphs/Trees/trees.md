@@ -1,3 +1,8 @@
+## Diffs between Graphs and Trees
+### Tree as actually a graph but tree is a acyclic, connected, undirected and have exactly n-1 edges for n nodes
+![img.png](img/img11.png)
+---
+
 ### Number of edges in tree
 An edge can be defined as the connection between two nodes. If a tree has N nodes then it will have (N-1) edges. There is only one path from each node to any other node of the tree.
 ### Height of a Tree
